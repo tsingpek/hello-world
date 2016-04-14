@@ -1,4 +1,4 @@
 # hello-world
 historical try
 
-this is just followed by the insturcutions of the website.
+this is just followed by the insturcutions from the website.
